@@ -4,7 +4,7 @@
 // 0,5 7,0 -2,0 -0,2
 // 1,0 -3,3 8,0 -9,9
 // 8,0 7,8 -7,1 9,0
-
+System.Console.WriteLine("Задайте пожалуйста массив.");
 Console.Write("Введите кол-во строк: ");
 int rows = int.Parse(Console.ReadLine());
 Console.Write("Введите кол-во столбцов: ");
