@@ -5,7 +5,7 @@
 // 5 9 2 3
 // 8 4 2 4
 // 1 7 -> такого числа в массиве нет
-System.Console.WriteLine("Задайте пожалуйста массив.");
+Console.WriteLine("Задайте пожалуйста массив.");
 Console.Write("Введите кол-во строк: ");
 int rows = int.Parse(Console.ReadLine());
 Console.Write("Введите кол-во столбцов: ");
